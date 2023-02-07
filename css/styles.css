@@ -117,7 +117,7 @@ body {
   color: var(--deafult-white-color);
   font-weight: 700;
   font-size: 56px;
-  line-height: 1;
+  line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
 }
@@ -127,6 +127,7 @@ body {
   color: var(--deafult-white-color);
   background-color: var(--span-accent);
   font-weight: 500;
+  font-size: 16px;
   line-height: 1.5;
   cursor: pointer;
   letter-spacing: 0.04em;
@@ -143,7 +144,7 @@ body {
   background-color: var(--first-bg-color);
 }
 
-.team-list {
+.team-item {
   background-color: var(--deafult-white-color);
 }
 
